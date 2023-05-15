@@ -11,7 +11,7 @@
     "test": "echo No tests to run!"
   },
   "dependencies": {
-    "bn.js": "5.2.0",
+    "bn.js": "5.2.1",
     "dcl-crypto": "2.3.0",
     "web3x": "4.0.6"
   },
