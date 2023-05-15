@@ -39,7 +39,7 @@
     "node-cache": "^5.1.2",
     "node-fetch": "2.6.1",
     "node-pg-migrate": "5.10.0",
-    "on-finished": "2.3.0",
+    "on-finished": "2.4.1",
     "p-queue": "6.6.2",
     "parallel-transform": "1.2.0",
     "pg": "8.7.1",
