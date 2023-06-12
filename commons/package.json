@@ -29,7 +29,7 @@
     "@types/node": "16.7.10",
     "@types/qs": "^6",
     "@types/response-time": "^2",
-    "jasmine": "3.9.0",
+    "jasmine": "5.0.1",
     "jasmine-core": "3.9.0",
     "jasmine-ts": "0.4.0",
     "ts-mockito": "2.6.1",
